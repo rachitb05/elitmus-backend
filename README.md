@@ -6,14 +6,14 @@ The Connect Game Backend is built using Node.js, and it provides the API endpoin
 
 To install the Connect Game Backend, follow the steps below:
 
-1.Clone this repository to your local machine using git clone https://github.com/your-username/connect-game-backend.git
+1.Clone this repository to your local machine using git clone https://github.com/rachitb05/elitmus-backend.git
 
 2.Navigate to the project directory using cd connect-game-backend
 
 3.Install the required dependencies using npm install
 
 4.Create a .env file in the root directory, and add the following variables:
-  MONGO_URI
+  MONGO_URI, PORT ,JWTTOKEN, CORS_URL
   
 5.Run the server using npm start
 
